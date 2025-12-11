@@ -1,0 +1,176 @@
+7000
+7000
+7000
+7000
+1000
+1000
+1000
+1000
+2000
+2000
+2000
+2000
+train data: [0, 1] - [8000, 8000]
+valid data: [0, 1] - [2000, 2000]
+Training Epoch 1 - 2.00% - Loss : 0.2454406806267798
+Training Epoch 1 - 4.00% - Loss : 0.12378419029992074
+Training Epoch 1 - 6.00% - Loss : 0.08253788619128197
+Training Epoch 1 - 8.00% - Loss : 0.06190860670583618
+Training Epoch 1 - 10.00% - Loss : 0.04954126622469857
+Training Epoch 1 - 12.00% - Loss : 0.04128647803157529
+Training Epoch 1 - 14.00% - Loss : 0.03539311862852027
+Training Epoch 1 - 16.00% - Loss : 0.03097023033646238
+Training Epoch 1 - 18.00% - Loss : 0.027529862835068444
+Training Epoch 1 - 20.00% - Loss : 0.024777887763295894
+Training Epoch 1 - 22.00% - Loss : 0.02252670566132234
+Training Epoch 1 - 24.00% - Loss : 0.020650992930203907
+Training Epoch 1 - 26.00% - Loss : 0.01906330321488055
+Training Epoch 1 - 28.00% - Loss : 0.0177025507375382
+Training Epoch 1 - 30.00% - Loss : 0.016522606868610314
+Training Epoch 1 - 32.00% - Loss : 0.015490556546990586
+Training Epoch 1 - 34.00% - Loss : 0.014579607681400078
+Training Epoch 1 - 36.00% - Loss : 0.01376978708358673
+Training Epoch 1 - 38.00% - Loss : 0.013045515213007855
+Training Epoch 1 - 40.00% - Loss : 0.01239377105569183
+Training Epoch 1 - 42.00% - Loss : 0.011803763654598261
+Training Epoch 1 - 44.00% - Loss : 0.01126746757695239
+Training Epoch 1 - 46.00% - Loss : 0.010777934773455872
+Training Epoch 1 - 48.00% - Loss : 0.01032911630437514
+Training Epoch 1 - 50.00% - Loss : 0.009916276354758167
+Training Epoch 1 - 52.00% - Loss : 0.009535164397391601
+Training Epoch 1 - 54.00% - Loss : 0.009182534671284541
+Training Epoch 1 - 56.00% - Loss : 0.00885473886349202
+Training Epoch 1 - 58.00% - Loss : 0.008549579189610816
+Training Epoch 1 - 60.00% - Loss : 0.00826463410721909
+Training Epoch 1 - 62.00% - Loss : 0.007998239664284585
+Training Epoch 1 - 64.00% - Loss : 0.007748376474650653
+Training Epoch 1 - 66.00% - Loss : 0.007513615737578093
+Training Epoch 1 - 68.00% - Loss : 0.007292693007969659
+Training Epoch 1 - 70.00% - Loss : 0.007084451406747243
+Training Epoch 1 - 72.00% - Loss : 0.006887687839208015
+Training Epoch 1 - 74.00% - Loss : 0.006701657753508604
+Training Epoch 1 - 76.00% - Loss : 0.006525340473096308
+Training Epoch 1 - 78.00% - Loss : 0.006358141021346288
+Training Epoch 1 - 80.00% - Loss : 0.006199321856857623
+Training Epoch 1 - 82.00% - Loss : 0.006048362910302894
+Training Epoch 1 - 84.00% - Loss : 0.0059044030507896155
+Training Epoch 1 - 86.00% - Loss : 0.005767178743150555
+Training Epoch 1 - 88.00% - Loss : 0.005636134276986482
+Training Epoch 1 - 90.00% - Loss : 0.005510932343905526
+Training Epoch 1 - 92.00% - Loss : 0.005391191611580157
+Training Epoch 1 - 94.00% - Loss : 0.005282460508187627
+Training Epoch 1 - 96.00% - Loss : 0.005180142185695165
+Training Epoch 1 - 98.00% - Loss : 0.0050748310366040125
+Training Epoch 1 - 100.00% - Loss : 0.004974337910487122
+Training Epoch 1 ...
+Train Epoch 1 end ! Loss : 2.487168955243561; Train Acc: 0.998625
+Valid Epoch 1 ...
+Training Epoch 2 - 2.00% - Loss : 4.0193219184914145e-06
+Training Epoch 2 - 4.00% - Loss : 2.7058942546176466e-06
+Training Epoch 2 - 6.00% - Loss : 1.6495459604470852e-05
+Training Epoch 2 - 8.00% - Loss : 1.25664215168797e-05
+Training Epoch 2 - 10.00% - Loss : 1.0202967165469091e-05
+Training Epoch 2 - 12.00% - Loss : 8.605165909377396e-06
+Training Epoch 2 - 14.00% - Loss : 7.979871265766698e-06
+Training Epoch 2 - 16.00% - Loss : 7.058289772388093e-06
+Training Epoch 2 - 18.00% - Loss : 6.340426964533839e-06
+Training Epoch 2 - 20.00% - Loss : 5.873451026729981e-06
+Training Epoch 2 - 22.00% - Loss : 5.455860616362688e-06
+Training Epoch 2 - 24.00% - Loss : 5.245736387730441e-06
+Training Epoch 2 - 26.00% - Loss : 4.987432315973505e-06
+Training Epoch 2 - 28.00% - Loss : 4.776472038616118e-06
+Training Epoch 2 - 30.00% - Loss : 4.545699819876366e-06
+Training Epoch 2 - 32.00% - Loss : 4.306762137495923e-06
+Training Epoch 2 - 34.00% - Loss : 4.08344452797765e-06
+Training Epoch 2 - 36.00% - Loss : 3.90443478378207e-06
+Training Epoch 2 - 38.00% - Loss : 3.73264211978907e-06
+Training Epoch 2 - 40.00% - Loss : 3.576910805698219e-06
+Training Epoch 2 - 42.00% - Loss : 3.4527202465318126e-06
+Training Epoch 2 - 44.00% - Loss : 3.416686112732815e-06
+Training Epoch 2 - 46.00% - Loss : 3.364108425445337e-06
+Training Epoch 2 - 48.00% - Loss : 3.26371871060734e-06
+Training Epoch 2 - 50.00% - Loss : 3.1900897947423344e-06
+Training Epoch 2 - 52.00% - Loss : 3.100133093306786e-06
+Training Epoch 2 - 54.00% - Loss : 3.001718210053165e-06
+Training Epoch 2 - 56.00% - Loss : 2.912302215842187e-06
+Training Epoch 2 - 58.00% - Loss : 2.8650704417116387e-06
+Training Epoch 2 - 60.00% - Loss : 2.8152865129745425e-06
+Training Epoch 2 - 62.00% - Loss : 2.7546932678035318e-06
+Training Epoch 2 - 64.00% - Loss : 2.7495821042888833e-06
+Training Epoch 2 - 66.00% - Loss : 2.6819640357552654e-06
+Training Epoch 2 - 68.00% - Loss : 2.636346726995786e-06
+Training Epoch 2 - 70.00% - Loss : 2.5892276053493136e-06
+Training Epoch 2 - 72.00% - Loss : 2.5539245234579906e-06
+Training Epoch 2 - 74.00% - Loss : 2.5796979170768344e-06
+Training Epoch 2 - 76.00% - Loss : 2.5252513742021607e-06
+Training Epoch 2 - 78.00% - Loss : 2.513700166672787e-06
+Training Epoch 2 - 80.00% - Loss : 2.491626046374762e-06
+Training Epoch 2 - 82.00% - Loss : 2.4787188769818572e-06
+Training Epoch 2 - 84.00% - Loss : 2.427728860474704e-06
+Training Epoch 2 - 86.00% - Loss : 2.383277498072958e-06
+Training Epoch 2 - 88.00% - Loss : 2.3444703103821366e-06
+Training Epoch 2 - 90.00% - Loss : 2.364468710314643e-06
+Training Epoch 2 - 92.00% - Loss : 2.3599300951444675e-06
+Training Epoch 2 - 94.00% - Loss : 2.3268232143921746e-06
+Training Epoch 2 - 96.00% - Loss : 2.315444041434134e-06
+Training Epoch 2 - 98.00% - Loss : 2.278871714608209e-06
+Training Epoch 2 - 100.00% - Loss : 2.2542144264861007e-06
+Training Epoch 2 ...
+Train Epoch 2 end ! Loss : 0.0011271072132430504; Train Acc: 1.0
+Valid Epoch 2 ...
+Training Epoch 3 - 2.00% - Loss : 1.3976561660911103e-06
+Training Epoch 3 - 4.00% - Loss : 9.623895508070745e-07
+Training Epoch 3 - 6.00% - Loss : 1.134025573890085e-06
+Training Epoch 3 - 8.00% - Loss : 1.3402586720445697e-06
+Training Epoch 3 - 10.00% - Loss : 1.1634756270950675e-06
+Training Epoch 3 - 12.00% - Loss : 1.0882116754373783e-06
+Training Epoch 3 - 14.00% - Loss : 1.0309921220498707e-06
+Training Epoch 3 - 16.00% - Loss : 9.689867107809392e-07
+Training Epoch 3 - 18.00% - Loss : 8.97994863180429e-07
+Training Epoch 3 - 20.00% - Loss : 9.074706765943574e-07
+Training Epoch 3 - 22.00% - Loss : 9.242644159195895e-07
+Training Epoch 3 - 24.00% - Loss : 1.1319493908719854e-06
+Training Epoch 3 - 26.00% - Loss : 1.0852811819553117e-06
+Training Epoch 3 - 28.00% - Loss : 1.1476013431734242e-06
+Training Epoch 3 - 30.00% - Loss : 1.1214350633774e-06
+Training Epoch 3 - 32.00% - Loss : 1.0977015462820817e-06
+Training Epoch 3 - 34.00% - Loss : 1.09365503224059e-06
+Training Epoch 3 - 36.00% - Loss : 1.0691764006291274e-06
+Training Epoch 3 - 38.00% - Loss : 1.0969737800792245e-06
+Training Epoch 3 - 40.00% - Loss : 1.0791727494563474e-06
+Training Epoch 3 - 42.00% - Loss : 1.1130720511551946e-06
+Training Epoch 3 - 44.00% - Loss : 1.13428806555889e-06
+Training Epoch 3 - 46.00% - Loss : 1.2124363243391718e-06
+Training Epoch 3 - 48.00% - Loss : 1.2323326069226444e-06
+Training Epoch 3 - 50.00% - Loss : 1.259842853016835e-06
+Training Epoch 3 - 52.00% - Loss : 1.2460176780411285e-06
+Training Epoch 3 - 54.00% - Loss : 1.2743282593103484e-06
+Training Epoch 3 - 56.00% - Loss : 1.257115014346206e-06
+Training Epoch 3 - 58.00% - Loss : 1.2483079231138806e-06
+Training Epoch 3 - 60.00% - Loss : 1.22450434929533e-06
+Training Epoch 3 - 62.00% - Loss : 1.2145051745311584e-06
+Training Epoch 3 - 64.00% - Loss : 1.2123000442620936e-06
+Training Epoch 3 - 66.00% - Loss : 1.212384721542769e-06
+Training Epoch 3 - 68.00% - Loss : 1.2319063850273939e-06
+Training Epoch 3 - 70.00% - Loss : 1.2884448130989767e-06
+Training Epoch 3 - 72.00% - Loss : 1.3269447132005198e-06
+Training Epoch 3 - 74.00% - Loss : 1.321184951596454e-06
+Training Epoch 3 - 76.00% - Loss : 1.3248728713596106e-06
+Training Epoch 3 - 78.00% - Loss : 1.312908821077121e-06
+Training Epoch 3 - 80.00% - Loss : 1.3377827453453505e-06
+Training Epoch 3 - 82.00% - Loss : 1.340196756659014e-06
+Training Epoch 3 - 84.00% - Loss : 1.333733884933963e-06
+Training Epoch 3 - 86.00% - Loss : 1.3210484365006694e-06
+Training Epoch 3 - 88.00% - Loss : 1.3145694682944768e-06
+Training Epoch 3 - 90.00% - Loss : 1.2966980727924237e-06
+Training Epoch 3 - 92.00% - Loss : 1.2847299085441808e-06
+Training Epoch 3 - 94.00% - Loss : 1.2714718718719249e-06
+Training Epoch 3 - 96.00% - Loss : 1.2609469522158652e-06
+Training Epoch 3 - 98.00% - Loss : 1.2874674074022811e-06
+Training Epoch 3 - 100.00% - Loss : 1.3025942699300685e-06
+Training Epoch 3 ...
+Train Epoch 3 end ! Loss : 0.0006512971349650343; Train Acc: 1.0
+Valid Epoch 3 ...
+Best acc : 1.0 from epoch 1th;
+Train output steps saved to train_log/train_output/trainlog_(time).txt
+llama7b
