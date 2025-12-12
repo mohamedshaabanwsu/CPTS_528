@@ -44,7 +44,7 @@ Generate hidden-state features needed for training the classifier.
 python generate_hd.py
 
 
-This creates feature files such as `last_token_mean_{datasplit}.json` and `last_mean_{datasplit}.json`, where each entry stores hidden states for safe (“right”) and harmful (“hallu”) variants of each base sentence.
+This creates feature files such as `last_token_mean_{datasplit}.json` and `last_mean_{datasplit}.json`, where each entry stores hidden states for safe (“right”) and harmful (“harmfull”) variants of each base sentence.
 
 ---
 
